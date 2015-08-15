@@ -1,0 +1,16 @@
+{
+  "name": "console_for_mobile_server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "console_for_mobile_server",
+  "dependencies": {
+    "body-parser": "^1.13.2",
+    "express": "^4.8.5",
+    "iconv-lite": "^0.4.11",
+    "node-schedule": "^0.2.9",
+    "serve-static": "^1.5.3"
+  },
+  "devDependencies": {
+    "ejs": "^2.3.3"
+  }
+}
